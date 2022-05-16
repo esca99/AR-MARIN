@@ -2,3 +2,4 @@ Nombres y apellidos completos del aprendiz
 Tecnólogo en Gestión de Redes de Datos
 Centro de Gestión de Mercados, Logística y Tecnologia de la Información
 Ficha: 218463X
+Automatizacion de redes 6to trimestre
